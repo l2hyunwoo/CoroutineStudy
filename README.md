@@ -1,2 +1,6 @@
 # CoroutineStudy
-블로그에 올라가는 코루틴 공부기록 올리기
+## Coroutine With Official Documentation
+SIBA에서 코루틴 공부하니까 이제 코루틴도 공부해야겠다(Sigh)
+
+## Index
+- [1일차]()
