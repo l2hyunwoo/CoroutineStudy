@@ -20,7 +20,7 @@
 
 IntelliJ에서 다음과 같이 프로젝트를 셋업하시고
 
-![스크린샷 2021-02-20 오후 2.48.15](/Users/l2hyunwoo/Desktop/2021 SOPT/SIBA/스크린샷 2021-02-20 오후 2.48.15.png)
+![스크린샷 2021-02-20 오후 2.48.15](https://media.vlpt.us/images/l2hyunwoo/post/4ace9489-3eae-45ae-a7f8-e26831e18217/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-02-20%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%202.48.15.png)
 
 프로젝트에 build.gradle.kts에 repositories에 ``jcenter()``를 추가하시고 dependencies에 ``implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.2")``를 추가하시면 됩니다.
 
